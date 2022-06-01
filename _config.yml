@@ -14,7 +14,7 @@ sass:
 # Main Headline, name required, subtitle optional
 name: Rafael Kehl
 #subtitle:
-subtitle: Data Engineer
+subtitle:  M.Sc. in Applied Math | Data Engineer
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title: Rafael Kehl
