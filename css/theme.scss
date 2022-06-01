@@ -37,8 +37,10 @@ div.fuse-core-content {
 /* --------- Avatar ---------------------------------------------------------------------------- */
 
 #avatar {
-    height: 180px;
-    border-radius: 100%;
+    background-size: cover;
+    height: 300px;
+    width: 300;
+    border-radius: 50%;
     border: 5px solid white;
 }
 
