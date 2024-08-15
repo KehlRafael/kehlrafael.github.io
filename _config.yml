@@ -14,7 +14,7 @@ sass:
 # Main Headline, name required, subtitle optional
 name: Rafael Kehl
 #subtitle:
-subtitle:  M.Sc. in Applied Math | Data Engineer
+subtitle:  M.Sc. in Applied Math | Team Leader | Data Engineer
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title: Rafael Kehl
@@ -23,8 +23,8 @@ title: Rafael Kehl
 # 'description' and 'keywords' simply set the corresponding meta tags,
 # 'crawl' is the 'Robots' tag http://www.robotstxt.org/meta.html
 robots:
-    description: One line of text describing the content of the page in less than 140 characters.
-    keywords: foo, bar, baz
+    description: This is a simple link tree and cover page for me, Rafael Kehl.
+    keywords: Data Engineer, Data, Team Leader, Python, Airflow, SQL
     crawl: index,follow
 
 # website address when deployed, also given as canonical link
@@ -40,9 +40,9 @@ baseurl: ''
 # Also, some places require you to anonymize the users' IPs, which can be enabled via 'anonymizeip' below. You normally want that.
 # https://support.google.com/analytics/answer/2763052
 ga:
-    account: 'UA-230445541-1'
-    cookieconsent: true
-    anonymizeip: true
+#    account: ''
+#    cookieconsent: true
+#    anonymizeip: true
 
 # Plausible.io Analytics (alternative to Google Analytics that does not need cookies -> no cookie consent required)
 # A config setting is required in plausible to enable tracking of the outbound links. Details described here:
